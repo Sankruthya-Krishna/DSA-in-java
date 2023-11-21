@@ -16,7 +16,6 @@ public class Arylist {
             }
         }
         System.out.println(list);
-
 //        list.add(5);
 //        list.add(67);
 //        list.add(66);
